@@ -1,0 +1,9 @@
+{
+  "name": "Spark Khoj",
+  "description": "A sports talent identification and opportunity integration platform that uses AI to analyze athlete performance and connect them with sponsors, coaches, and academies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
